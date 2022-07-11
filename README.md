@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ikeoluwa
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Website building projects using HTML, CSS and JAVASCRIPT
-- 📫 How to reach me: reachme.ikeoluwa@gmail.com
+
 
 
 <!---
@@ -11,13 +10,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 🤝 Follow me no:
-<!-- 
-<a href="https://www.linkedin.com/in/IkeoluwaAshade/"><img align="left" src="https://raw.githubusercontent.com/IkeoluwaAshade/IkeoluwaAshade/main/images/linkedin.svg" alt="Ikeoluwa Ashade | LinkedIn" width="21px"/></a> -->
+### 🤝 Follow me on:
+<a href="https://www.linkedin.com/in/ikeoluwa-ashade-855729197/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ikeoluwa Ashade | LinkedIn" width="21px"/></a>
+
 <!-- <a href="https://instagram.com/IkeoluwaAshade"><img align="left" src="https://raw.githubusercontent.com/IkeoluwaAshade/IkeoluwaAshade/main/images/instagram.svg" alt="Ikeoluwa Ashade | Instagram" width="21px"/></a> -->
 <!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/IkeoluwaAshade/IkeoluwaAshade/main/images/medium.svg" alt="Ikeoluwa Ashade | Medium" width="21px"/></a> -->
+
+
 </br>
+
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 📫 How to reach me: reachme.ikeoluwa@gmail.com
 
 ## 🔭 I'm currently working on
 
@@ -30,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌱 I'm currently learning
 
 - 📱 React
+- JavaScript
 
 
 
