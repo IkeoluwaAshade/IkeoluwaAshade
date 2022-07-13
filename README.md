@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - My Old Projects
 - My Blog
+- My Portfolio
 - My CSS skill
 - My JavaScript Skill
 - My React Skill
