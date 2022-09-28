@@ -16,10 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://twitter.com/IkeoluwaAshade"><img align="left" alt="IKeoluwa Ashade  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
-<!-- <a href="https://instagram.com/IkeoluwaAshade"><img align="left" src="https://raw.githubusercontent.com/IkeoluwaAshade/IkeoluwaAshade/main/images/instagram.svg" alt="Ikeoluwa Ashade | Instagram" width="21px"/></a> -->
-<!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/IkeoluwaAshade/IkeoluwaAshade/main/images/medium.svg" alt="Ikeoluwa Ashade | Medium" width="21px"/></a> -->
-
-
 </br>
 
 
