@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 🤝 Follow me on:
+## 🤝 Follow me on:
 
 <a href="https://www.linkedin.com/in/ikeoluwa-ashade/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ikeoluwa Ashade | LinkedIn" width="21px"/></a>
 
