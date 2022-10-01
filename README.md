@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/IkeoluwaAshade"><img align="left" alt="IKeoluwa Ashade  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 </br>
-
-
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - 📫 How to reach me: reachme.ikeoluwa@gmail.com
 
