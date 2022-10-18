@@ -23,8 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔭 I'm currently working on
 
-- My Old Projects
+
 - [My Blog](https://bit.ly/3rEWdvh)
+- My Old Projects
 - My Portfolio
 - My CSS skill
 - My JavaScript Skill
