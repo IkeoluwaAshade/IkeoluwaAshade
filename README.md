@@ -1,4 +1,4 @@
-![image](https://media.licdn.com/dms/image/C5616AQG6vmp7FNpnew/profile-displaybackgroundimage-shrink_350_1400/0/1649217102385?e=1682553600&v=beta&t=D3AWP8IWOfeKB1SZVRo7QFsB0ijSkX6dmqLYDyPI-ZY)
+![image](https://media.licdn.com/dms/image/D4D16AQHEgysCWzXqzw/profile-displaybackgroundimage-shrink_350_1400/0/1678368848868?e=1683763200&v=beta&t=9L_PLTHBLcI0HfIWqI6MAJAqQWlKcKn056zvCx6UTvM)
 - 👋 Hi, I’m @Ikeoluwa
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on Website building projects using HTML, CSS and JAVASCRIPT
