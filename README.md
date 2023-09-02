@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - [My Blog](https://bit.ly/3rEWdvh)
-- My Old Projects
-- My Portfolio
+- [My Portfolio](https://github.com/IkeoluwaAshade/ikeoluwaashade.com)
+- My old projects
 - My CSS skill
 - My JavaScript Skill
 - My React Skill
