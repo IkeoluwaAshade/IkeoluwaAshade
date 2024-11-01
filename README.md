@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 ## 🔭 I'm currently working on
 
 
-- [My Blog](https://bit.ly/3rEWdvh)
-- [My Portfolio](https://github.com/IkeoluwaAshade/ikeoluwaashade.com)
+- [My Blog](https://medium.com/@IkeoluwaAshade)
+- [My Portfolio](https://ikeoluwaashade.vercel.app/)
 - My old projects
 - My CSS skill
 - My JavaScript Skill
