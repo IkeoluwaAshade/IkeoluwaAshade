@@ -5,7 +5,7 @@
 
 ##  👋 Hi There!
 
-Ikeoluwa is a visual communicator who is very passionate about using code to solve problems. He is currently interning as a Software Engineer at Fintech Innovation hub a subsidiary company of [Esusu Africa](https://esusu.africa/).
+Ikeoluwa is a visual communicator who is very passionate about using code to solve problems. He is currently interning as a Software Engineer at [Esusu Africa](https://esusu.africa/).
 
 If you wanna check out his cool stuffs, you can follow the links below
 
